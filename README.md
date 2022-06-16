@@ -28,6 +28,9 @@
     <img src="https://img.shields.io/badge/-gmail-1C1C1C?style=flat-square&logo=Gmail&logoColor=3b18be&color=0d1117"
       alt="gmail" style="margin-bottom: 5px;" />
   </a>
+  <a href="https://www.instagram.com/devpedrom" target="_blank">
+    <img src="https://img.shields.io/badge/-instagram-1C1C1C?style=flat-square&logo=instagram&logoColor=3b18be&color=0d1117" style="margin-bottom: 5px;"/>
+  </a>
   <a href="https://www.buymeacoffee.com/pedromendes" target="_blank">
     <img src="https://img.shields.io/badge/-donate-1C1C1C?style=flat-square&logo=buymeacoffee&logoColor=3b18be&color=0d1117" style="margin-bottom: 5px;"/>
   </a>
