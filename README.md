@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-linkedin-1C1C1C?style=flat-square&logo=Linkedin&logoColor=3b18be&color=0d1117"
       alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-    <a href="mailto:contato.devpedrom@gmail.com?&subject=&cc=&bcc=&body=contato.devpedrom@gmail.com%0A%F0%9F%91%8B%20Hi,%20I%20came%20from%20Github!" target="_blank">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=contato.devpedrom@gmail.com&body=👋+Hi,+I+came+from+Github!" target="_blank">
     <img src="https://img.shields.io/badge/-gmail-1C1C1C?style=flat-square&logo=Gmail&logoColor=3b18be&color=0d1117"
       alt="gmail" style="margin-bottom: 5px;" />
   </a>
